@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The doctrine of Christ's glorious kingdom, or, The New Jerusalem state now shortly approaching, is exceeding comfortable and very advantageous to all faithfull Christians, is manifest by the key and this whole work ...</title>
+            <title>Kleis evangeliou tou mystutikou, or, A key. Selections.</title>
+            <author>Sherwin, William, 1607-1687?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36205</idno>
+            <idno type="STC">Wing D1770</idno>
+            <idno type="STC">ESTC R32798</idno>
+            <idno type="EEBO-CITATION">12755692</idno>
+            <idno type="OCLC">ocm 12755692</idno>
+            <idno type="VID">93416</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36205)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93416)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1033:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The doctrine of Christ's glorious kingdom, or, The New Jerusalem state now shortly approaching, is exceeding comfortable and very advantageous to all faithfull Christians, is manifest by the key and this whole work ...</title>
+                  <title>Kleis evangeliou tou mystutikou, or, A key. Selections.</title>
+                  <author>Sherwin, William, 1607-1687?</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.]</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Part 22 of "Sherwin's "Kleis evangeliou tou mystutikou, or, A Key."</note>
+                  <note>Errata at end of p. 4.</note>
+                  <note>Imprint (London) suggested by wing.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:93416:1" rendition="simple:additions"/>
+            <head>
+               <hi>22th.</hi> The Doctrine of Chriſts glorious Kingdom [or the New Jeruſalem State] now ſhortly approaching, is exceeding comfortable and very ad<g ref="char:EOLhyphen"/>vantageous to all faithfull Chriſtians, is manifest by the Key and this whole Work; and by the enſuing <hi>[Paraeneſis]</hi> or Monitory Exhorta<g ref="char:EOLhyphen"/>tion, may further appear. <date>
+                  <hi>Anno Dom. 1672.</hi>
+               </date>
+            </head>
+            <p>ANd now dear Chriſtian Bretheren allow me a little freedom in this office of love, you I mean who are partakers of the grace of God purchaſed by Jeſus Chriſt and by the ſpirit of ſanctification wrought in your ſouls, whether Epiſcopal (ſo called) Presbyterian or Independent; with ſundry others upon the ſame foundation,<note place="margin">Firſt for <g ref="char:V">Ʋ</g>nitie.</note> many of which, through Gods eſpecial mercy, have evidently obtained like precious grace; to you all I ſpeak, as ſuch. Why do you ſtill ſtand at diſtance one from another? Conſider, I pray you, That one Heaven (as ye all believe) ſhall hereafter contain you all, when ye ſhall be made perfect in one; yea moreouer, I am well aſſured, that one Glorious King<g ref="char:EOLhyphen"/>dom of Chriſt to come will ſatiate all your ſouls as ſuch, a long time before you can ob<g ref="char:EOLhyphen"/>tain the other, <hi>viz.</hi> both ſouls and bodies; all whoſe degrees of bleſſedneſs is only to be ex<g ref="char:EOLhyphen"/>pected in Gods beſt order, and time and manner revealed in his word; whether men take cognizance of it more particularly or leſs: And after that great day of Judgment is finiſhed, the expectation of all Saints to attain <hi>Thoſe things which eye hath not ſeen, nor ear heard, nor hath entered into ths heart of man to conceive, beſides thee, O God,</hi> 
+               <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Evangelical Prophet <hi>[Eſa.]</hi> And, <hi>O how great things</hi> (ſaith holy <hi>David</hi>) <hi>hath God prepared,</hi> &amp;c. But the ſtate of things in Chriſts ſaid Kingdom, is not altogether ſuch, in the interim; though very glorious, and excellent, and bleſſed, and ſuitable to that con<g ref="char:EOLhyphen"/>dition (then,) when Judgment ſhall be given to the Saints in the world, long before the finiſhing of the laſt Judgment. And moſt of you, if not all, are one in the things, at pre<g ref="char:EOLhyphen"/>ſent, that are counted eſſentially neceſſary <hi>[ad eſſe Eccleſiae]</hi> for the being of the Church of Chriſt: how ſhould all ſorts agreeing in the main, then alſo endeavour to be one in things that pertain <hi>[ad bene eſſe]</hi> to the well being of the ſame alſo? And I am ſtrongly (from Gods word) aſſured, that it will not be long before the Lord, in that great day which he hath foretold, will be one, and his name one; even in reſpect of ſuch uſual diſ<g ref="char:EOLhyphen"/>ſentments of men in our dayes, and his people ſhall then ſerve him with one ſhoulder: how then ſhould all faithful Chriſtians (what in them is) endeavour, by all good means, for Unity with the bond of peace, as well as Truth, (though that eſpecially) and ſo to meet their mercy by the way; and, if it might be, anticipate it, by ſo haſtning its com<g ref="char:EOLhyphen"/>ing: how well would Chriſt (then) take it at all your hands? Whereas, if any ſhould ſo be found ſhort of this, that they will from ſuch diſſentments, be ſmiting their Bretheren, (though it be but with the tongue, when they can do no more;) how will they expoſe them<g ref="char:EOLhyphen"/>ſelves at that day, to Chriſts objurgation, before Angels and Men, <hi>&amp;c.?</hi> Unite, there<g ref="char:EOLhyphen"/>fore, Bretheren, I ſay, Unite, Unite in one in theſe matters alſo, at leaſt in your ſpirits, and the actings of them; that may be the way, where God may ſupply what you are want<g ref="char:EOLhyphen"/>ing in, to bring about the buſineſs (which you ſo rightly and really endeavour,) by grant<g ref="char:EOLhyphen"/>ing his <hi>Fiat</hi> in the caſe. Let each ſort caſt off their peculiar obſtacles, and any-wayes-thwarting intereſts; Complying fully with Gods Rules, that ſhould fully guide us all therein, and They, I humbly conceive, are very few, but ſufficient: only, men muſt be<g ref="char:EOLhyphen"/>ware they miſtake them not, that they pervert them not in their uſe and mannagment. The firſt is that of the Apoſtle, 1 <hi>Cor.</hi> 14.26. <hi>Let all things be done to edifying. viz</hi> of the ſouls of Gods people; and this is a comprehenſive and forcible rule and direction, which in every conſtitution and counſel of men, ought much to ſway the matter, is the <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing pleaſing or profitable or creditable, <hi>&amp;c.?</hi> that may be ſomewhat in ſome caſes, but the great Queſtion in matters of ſuch nature, as men may order, is: But is it ſo for edifying? If they will not advance that end in Gods Church, what ſhould they do there? out if they will hinder it, why ſhould they be ſuffered in it? And then a ſecond follows, <hi>v.</hi> 40. <hi>Let all things be done decently and in order:</hi> which two rightly applyed like our
+<pb n="2" facs="tcp:93416:2"/>Saviours firſt and second law of love, containing all the other: So may theſe being rightly mannaged, in all ſuch caſes, regulate the counſels and actings of men in Church affairs; but as love was the matter of both theſe laws (though fixt upon diſtinct octjects;) ſo edifying is the ſubſtance and the end of both, though the latter for the manner, ought often more neceſſarily to be applyed with the other, as being ſubordinate thereunto, in ſundry reſpects of nature, matter, uſe and end, <hi>&amp;c.</hi> The Apoſtles inſtances which oc<g ref="char:EOLhyphen"/>caſioned this ſecond Rule, ſeems to teach us the right uſe of it; the one caſe of decen<g ref="char:EOLhyphen"/>cy whether women ſhould ſpeak in the Church; That, by the Apoſtle (authoritatively) was once and for all times, ordered negatively, as being ſpecially guided by Gods ſpirit: <hi>Let not your women ſpeak,</hi> ſaith he, <hi>&amp;c.</hi> The other was a profitable orderly ſettling the way of their propheſieing, that it might more tend to edifycation; and contrary confu<g ref="char:EOLhyphen"/>ſion be avoyded, that would hinder the ſame: And the Apoſtle ſeems ſo to ſubordinate the latter to the firſt, as if no plea of order (or decencie at leaſt) might be approveable, but as in conjunction with in its nature, uſe or end with edifycation of the Church of Chriſt; whereby natural or prudential agreements, for times or places of worſhip, and utenſels therein, by humane and Chriſtian qualifications, may be ſuitably judged of and approved by men, <hi>[pro hic &amp; nunc,]</hi> as it is, or ought to be, with ſome Officers <hi>[quam diu ſe bene geſſerint]</hi> and ſo <hi>Moſes</hi>'s Braſen Serpent, was approved to be <hi>Hezekiah</hi>'s Ne<g ref="char:EOLhyphen"/>huſhtan; but ſtill by the two former rules to be examined, eſpecially, and neceſſarily by that of edifycation; for prudence and decencie, and all the other, if not qualified for edifycation, or being contrary, are (for ought I can diſcern from the Apoſtles ſaid ruled caſes) pleas without doores, in reference to ſuch ſaid conſtitutions or counſels of men in the Church of Chriſt: Whereas, for Officers and Ordinances, and what elſe is neceſ<g ref="char:EOLhyphen"/>ſary, the Scripture gives many, &amp; large inſtructions, and Divine inſtitutions, which Perſons of prudent hearts and ſanctified Spirits, will be apt to improve well (by Divine grace duly ſought for, and rightly applyed) and the Chriſtian charity of others, herein (accor<g ref="char:EOLhyphen"/>dingly) acquieſce: But one the other part, as any appear defective in the ſaid reſpect of edifycation, or prejudicial thereunto, they may appear to be more dangerouſly enjoyn<g ref="char:EOLhyphen"/>ed or hurtfully obſerved, as being excentrical to the Apoſtle <hi>Pauls</hi> ſaid boundaries of them: And in that men have walked ſo out of theſe paths of Unity, Piety and peace, what ſad effects hath Satan upon the corruption, blindneſs and interſts of men, and ſtill doth earneſtly endeavour to bring about? let every mountain ſtanding in the way of U<g ref="char:EOLhyphen"/>nion be endeavoured by you to be levelled, and every bond be broken in ſunder which is not of Gods allowance: But yet may not piouſly, and charitably intended incourage<g ref="char:EOLhyphen"/>ments, in things ſeemighly only good, (but miſtaken) be retained? and applyed to real<g ref="char:EOLhyphen"/>ly good improvements, which (I ſupppoſe) they may well be judged ſo to have attained their end, with advantage; True Chriſtian Charity, piety and prudence will regulate much in many like caſes; God grant them to all ſorts in theſe reſpects eſpecially con<g ref="char:EOLhyphen"/>cerned, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <note place="margin">Secondly, for Piety.</note>And all ye right Chriſtianly charitable ſouls of all ſorts, how few ſo ever in theſe key-cold, yea chilled laſt dayes ye ſeem to be, you have but a little time here to bring forth your fruits of faith and love, Let the ſeaſon of your preſent being, firſt ingage you to walk cloſly with God; be much in private and ſecret communion with him your ſelves; wherein you have (if your hearts be upright in his ſight) the greateſt advantage imagi<g ref="char:EOLhyphen"/>nable with the King of Heaven and Earth, above the favorites of earthly Princes; who ſometimes miſtake their faithfulleſt ſervants, ſometimes hear bad information againſt them, ſometimes are remote from them, or they hindred from coming to them, ſome<g ref="char:EOLhyphen"/>times and in ſome caſes and things they cannot help, (though at Gods pleaſure Kings may be potent) yet only God himſelf is Omnipotent, many wayes beyond thought: earthly Princes may fail theirs, but God will never fail nor forſake his favourites; in all times, places and companies, a good thought, purpoſe, expreſſion of heart, or word, a ſpiritual ſoliloquie, or ejaculation is very kindly taken at Gods hand from you, who will reckon ſuch ſoul actings tokens of much love &amp; ſincerity, when ſometime more weakneſs in greater ſolemnities may appear. 2. Be much in family duties prudently contrivied, that
+<pb n="3" facs="tcp:93416:2"/>ye may continue in them; ſet your houſe in order for them; be not ſlight or fickle in them, judge not your ſelves in fit grab or poſture for worldly buſineſs, without neceſſity, till God have his family worſhipt at ſuitable opportunities; a frothie profeſſion and pre<g ref="char:EOLhyphen"/>tending to Religion hath of late times, much more then formerly, thruſt theſe duties out of doors, though they ſeldom have had good entertainment within, (ſave of ſome few) true piety hath been long, yea ever hitherto, <hi>[Rara avis in terris,]</hi> very ſcarce to be found; families were the firſt and uſually the beſt plantation of fruit trees in Gods Vine<g ref="char:EOLhyphen"/>yard, keep the reſolution of <hi>Joſhua,</hi> eſpecially now, againſt the floods of ungodlyneſs; fa<g ref="char:EOLhyphen"/>milies are like to be the beſt nurſeries of ſuch young plants, for many advantages, en<g ref="char:EOLhyphen"/>gagements, endearments; much quickning to encreaſe of grace in family-worſhip, <hi>&amp;c.</hi> and that advantage doth wonderfully help, encourage and further the publick Miniſtry of the Goſpel, <hi>&amp;c.</hi> thence are inſtilled uſually, and preſerved too good principles, or patterns of wholſom words, with their improvements: the defect whereof is now lamentable, for the want both of private and publick Catechiſings. Do not all wiſe builders look main<g ref="char:EOLhyphen"/>ly to their foundations? for want of this, ſo many tottering buildings ſoon reel aſide, to one error or other, or are in continual danger of falling utterly, or mouldering to no<g ref="char:EOLhyphen"/>thing in Religion, <hi>&amp;c.</hi>
+            </p>
+            <p>But then, right Pious ſouls, ſee that your true Chriſtianity,<note place="margin">Thirdly for Charity.</note> to help forward your good account, be outwardly manifeſt in your gracious works of charity, not only to ſupply neceſſities, but to prevent evil and do good; many poor ſouls that ſtudy faith and good conſcience towards God and men, have much encountering with tentations, in a low and hard condition, by reaſon of the prevailing iniquities of the times, and the many ways of the practiſe thereof, by the licentious, who fight ſo againſt their own outward wants, by weapons of iniquity, uſing ſuch unlawful ways, and means, and practiſes which others may not, dare not, do not; yet are ſtraightened by others ſins (in ſuch caſes) their oppreſſors, upon ſuch accounts. How ſhould the ſtrong and able in eſtate, herein in Chri<g ref="char:EOLhyphen"/>ſtian compaſſion, help the infirmities of the weak, eſpecially in reference to their ſoul-danger thereby; or to ſee to the good education of their childeren, and that their wid<g ref="char:EOLhyphen"/>dows and orphans (chiefly by relieved, <hi>&amp;c.</hi> how by ſuch charitable deeds (eſpecially with the addition of inſtructions and encouragments) might you in ſo doing draw others to Chriſt and inſtrumentally ſave their precious ſouls? conſider what, out of your Revenues you can with a chearful heart and ready hand, yearly, monthly, or weekly return to God, in a thanks-offering, by his now many, many receivers neer you, or known to you, for the all which you have received beſides; and conſider, (according to the Apoſtles rule) how God hath proſpered you the preceding week, and let that grace of an humble, thankful, true chriſtian charity, have its due operation in you in her proportion; and if rents and gains will not do it as you deſire, then cut off ſinful exceſſes in vain expences, more cloſly and barely, in too coſtly and curious apparel, laviſhing entertainments, in inconſiderat<g ref="char:EOLhyphen"/>ly coſtly buildings, now the world is neer her departure, by her great ſhaking fits ceiſing upon her; yet theſe are the common ſins of the times, and breeders of mens future ſorrow, and too late repentance, when a much better and ſafer improvement ſhould have been made thereof; now you may make God your debtor, by his promiſe, and your ſelves temporally more bleſſed by giving than by receiving. If men did but caſt in a tenth of what they receive, or but even of what many vainly conſume, <hi>&amp;c.</hi> into Gods treaſury, for ſuch charitable uſes, or any other like, (for the world abounds with objects of that nature) there is no queſtion, but they would find a better return, yea (haply) ma<g ref="char:EOLhyphen"/>ny better returns, of that tenth which they gave, or ſome others out of their eſtates vain<g ref="char:EOLhyphen"/>ly conſume (and that with advantage) above all the nine parts that they or ſuch others detained from ſuch offerings to God; beſides the prayers, praiſes and thankſgivings from men thereupon, which God will obſerve and reward. Let me only add this comprehen<g ref="char:EOLhyphen"/>ſive conſideration for all at preſent; That your final ſentence of approbation or condem<g ref="char:EOLhyphen"/>nation will, by Chriſt himſelf, be paſſed mainly upon that account, <hi>Mat.</hi> 25.<note place="margin">See Ever<g ref="char:EOLhyphen"/>laſt. Goſ. P. 19, 20.</note> as carry<g ref="char:EOLhyphen"/>ing it well or ill in that kind, to ſuch little ones, or diſciples of his, in <hi>relieving, viſiting, cloathing them,</hi> (which ſaith Chriſt, is done to himſelf,) but if men injure and perſecute
+<pb n="4" facs="tcp:93416:3"/>them;<note place="margin">Wh<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Mat. <hi>25.</hi> 
+                  <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ex<g ref="char:EOLhyphen"/>pounded. Obſ. it well.</note> how heavy will their judgment be? but it in them Chriſtians relieve Chriſt? they muſt labour to do it, for Chriſts ſake; in faith, in obedience, out of love, out of thank<g ref="char:EOLhyphen"/>fulneſs to the firſt giver, who made them large receivers firſt, whereupon they are much in his debt, &amp;. ſhould endeavour much to come out of ſome part of it, (for which God may diſcharge in full) before death come, which cuts off further opportunitie, and impriſons all unbelievers for ſuch debts,<note place="margin">Dan. <hi>4.7.</hi>
+               </note> [oh that men would conſider it] before the time of execution come! for then all ſuch intereſt is gone, and they leave [moſt likely] a curſe to their ſuc<g ref="char:EOLhyphen"/>ceſſors, entailed on their eſtates to conſume in ſin, or give them up to ſerve Satans inter<g ref="char:EOLhyphen"/>eſt, or to make them become a prey to the devourer, or a bootie to the ſupplanter, one way or other, <hi>&amp;c.</hi> And ſuch perſons ſhould in theſe times lay to heart this conſideration for two reaſons. 1. By how much the times are more provoking of Gods wraths; ſo all eſtates are more tottering therefore it would be more wiſdom to ſecure much, whilſt ye may, by committing it to Gods ſafe inſuring hands; it may, more likely, reſcue the reſt, or keep of vengeance the longer, and ſo more time of well doing will be allowed. Again, Satan hath great wrath, becauſe his time is now very ſhort, and therefore he marcheth furiouſly with his hoſts of evil men and devils to ruin all he can; Chriſtians ſhould then likewiſe <hi>[vi &amp; armis]</hi> with all their might give him the repulſe, by laying out themſelves in their perſons, poſſeſſion, parts, poſterity, their all for Chriſt, whence two encourage<g ref="char:EOLhyphen"/>ments. 1. Chriſt will ſurely give them both victory, and recompence; and the devil being reſiſted, as the greateſt coward, he will alſo flee, <hi>Jam.</hi> 4.7. 2. As the times are very bad, ſo Chriſtians help is more needful; and the rather, becauſe we are fallen into the dregs of bad times, when upon many weighty conſiderations, we may expect Chriſts coming very ſhortly, and the beſt that live now and lawfully enjoy, plentiful eſtates, know not whether they or theirs ſhall retain [then] any of the things which they now poſſeſs: yet let ſuch take this conſolation, that they and their poſterity being faithful will gain by that change in this world, when one in a bed, in the field, in the mill, by the Angels will be carried in the 4 quarters of the earth, to Chriſt as their arke, or as the Eagles to the carkaſs, <hi>Mat.</hi> 23.28. and planted in a better ſoile, and much better eſtate, to inherit the mercies promiſed to the fore-fathers,<note place="margin">See Obſ <hi>20.</hi> after Tract. on Rev. <hi>20, 22.</hi>
+               </note> 
+               <hi>&amp;c.</hi> I pray God ſanctifie ſuch as here them, by theſe Divine truths thus briefly hinted; and let me to that end, offer this caution to all ſerious Chriſtians, to take heed leſt (as <hi>Iſrael</hi> of old entered not into <hi>Canaan</hi> becauſe of unbelief) that their unbelief [if not their ſlighting of theſe Divine truths] cauſe not Chriſt in diſ<g ref="char:EOLhyphen"/>pleaſure to bring them late into the <hi>New Jeruſalem</hi> ſtate at the firſt bleſted Reſurrect. when, as ſome antients conceived, there will be <hi>[mora]</hi> to ſome, though I doubt not but all the faithful till then, [and not only actual Martyrs] will have ſome part in that ſtate longer or ſhorter, it is dangerous to contemn or oppoſe any Divine truths ſuch as theſe are; [and as I from good ground know theſe to be.] As for meaner Chriſtians I only ſay this,<note place="margin">See Satans ſeven Vials. Forerunner p. <hi>41, 42.</hi>
+               </note> which is much in few words, let them walk in their general and particular cal<g ref="char:EOLhyphen"/>lings, wherein they are called, with God faithfully, they then will have this ſtrong ſupport that he wil not fail them nor forſake any of them, and to that and conſider, what is ſaid before concerning theſe laſt times, <hi>&amp;c.</hi> Other improvements of theſe truths we briefly hinted in our Pract. picces on <hi>Gen</hi> 3.15. <hi>Rev</hi> 22.20. <hi>Jer.</hi> 3.17. <hi>&amp;c,</hi> which with this Ex<g ref="char:EOLhyphen"/>hortation I leave to Chriſtians uſe and Gods bleſſing; praying at preſent, after that an<g ref="char:EOLhyphen"/>cients mode with ſome addition.</p>
+            <p>
+               <hi>Domine Jeſu ſi qua pro tennitate mea in hic ſcripſi, qua mea ſunt, non tua, tuip<g ref="char:EOLhyphen"/>ſe in its ignoſce mihi;omnia autem qua tua ſunt, a me tam indigne, hic prolata agnoſ<g ref="char:EOLhyphen"/>cant etiamque <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> Amen.</p>
+            <p>
+               <hi>(i.e.)</hi> L. Jeſus, if I have in theſe things written any out of mine own meaneſs, wch are my own, but not thine, pardon thou <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> therein, but let thy ſerv. alſo acknowledg al thoſe things wch are thine own, though here tendred to them by ſo unworthy a perſon as my ſelf. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>Tit. p r. K for X. p. 7 r. <hi>Tohu vaboh<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> Word Writ. r. 3. <hi>Vaus</hi> for 3. <hi>Zains.</hi> in fold. leave r. <hi>reunited</hi> not <hi>recruted. builder</hi> not <hi>redeemer. vailed</hi> not <hi>railed.</hi> in S. of <hi>Dan.</hi> 366. not 666</p>
+         </div>
+      </back>
+   </text>
+</TEI>
